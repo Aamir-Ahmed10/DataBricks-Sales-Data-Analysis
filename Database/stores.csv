@@ -1,0 +1,21 @@
+store_id,store_name,store_type,country_code,city,postal_code,opened_at,is_active
+S00001,DataMart Salzburg,physical,AT,Salzburg,5020,2018-08-17,True
+S00002,DataMart Online AT,online,AT,,,2019-02-21,True
+S00003,DataMart Marseille,physical,FR,Marseille,13001,2019-07-18,True
+S00004,DataMart Online FR,online,FR,,,2020-05-16,True
+S00005,DataMart Berlin,physical,DE,Berlin,10115,2018-10-13,True
+S00006,DataMart Online DE,online,DE,,,2023-02-17,True
+S00007,DataMart Milan,physical,IT,Milan,20100,2021-10-17,True
+S00008,DataMart Online IT,online,IT,,,2023-02-25,True
+S00009,DataMart Utrecht,physical,NL,Utrecht,3511,2018-06-28,True
+S00010,DataMart Online NL,online,NL,,,2022-04-24,True
+S00011,DataMart Krakow,physical,PL,Krakow,30-001,2018-03-07,True
+S00012,DataMart Online PL,online,PL,,,2019-03-03,True
+S00013,DataMart Madrid,physical,ES,Madrid,28001,2019-03-24,True
+S00014,DataMart Online ES,online,ES,,,2020-04-21,True
+S00015,DataMart Malmo,physical,SE,Malmo,21101,2021-05-17,True
+S00016,DataMart Online SE,online,SE,,,2019-02-24,True
+S00017,DataMart Basel,physical,CH,Basel,4001,2019-02-12,True
+S00018,DataMart Online CH,online,CH,,,2023-01-06,True
+S00019,DataMart Birmingham,physical,UK,Birmingham,B1,2021-12-07,True
+S00020,DataMart Online UK,online,UK,,,2022-01-21,True

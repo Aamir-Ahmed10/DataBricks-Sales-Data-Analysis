@@ -1,0 +1,251 @@
+product_id,sku,product_name,brand,category,subcategory,unit_cost,list_price,currency_code,launch_date,is_active
+P000001,SKU-SPO-00001,PeakMotion Dumbbells,PeakMotion,Sports,Dumbbells,109.92,211.17,EUR,2019-01-27,True
+P000002,SKU-APP-00002,StreetMode Cap,StreetMode,Apparel,Cap,46.66,67.84,EUR,2022-10-10,True
+P000003,SKU-ELE-00003,ElectraOne Headphones,ElectraOne,Electronics,Headphones,103.34,140.88,EUR,2021-12-19,True
+P000004,SKU-SPO-00004,PulseGear Resistance Bands,PulseGear,Sports,Resistance Bands,231.8,340.91,EUR,2025-03-11,True
+P000005,SKU-HOM-00005,DailyChef Kettle,DailyChef,Home,Kettle,171.32,268.26,EUR,2019-07-07,True
+P000006,SKU-HOM-00006,CleanWave Coffee Maker,CleanWave,Home,Coffee Maker,288.93,392.59,EUR,2024-02-01,True
+P000007,SKU-HOM-00007,DailyChef Blender,DailyChef,Home,Blender,112.12,172.77,EUR,2019-10-20,True
+P000008,SKU-APP-00008,CasaWear Hoodie,CasaWear,Apparel,Hoodie,22.6,37.78,EUR,2025-03-31,True
+P000009,SKU-APP-00009,NordFit Cap,NordFit,Apparel,Cap,67.38,153.28,EUR,2021-07-27,True
+P000010,SKU-HOM-00010,DailyChef Vacuum,DailyChef,Home,Vacuum,27.92,48.46,EUR,2025-05-12,True
+P000011,SKU-HOM-00011,BrightNest Blender,BrightNest,Home,Blender,109.44,190.12,EUR,2024-02-23,True
+P000012,SKU-APP-00012,CasaWear Sneakers,CasaWear,Apparel,Sneakers,27.29,51.93,EUR,2021-12-12,True
+P000013,SKU-SPO-00013,PeakMotion Resistance Bands,PeakMotion,Sports,Resistance Bands,60.59,134.35,EUR,2020-07-20,True
+P000014,SKU-ELE-00014,NovaTech Headphones,NovaTech,Electronics,Headphones,171.83,194.2,EUR,2023-09-26,True
+P000015,SKU-ACC-00015,EverydayCo Backpack,EverydayCo,Accessories,Backpack,19.88,49.5,EUR,2024-12-07,True
+P000016,SKU-HOM-00016,HomePro Air Fryer,HomePro,Home,Air Fryer,254.9,312.52,EUR,2025-01-08,True
+P000017,SKU-HOM-00017,DailyChef Kettle,DailyChef,Home,Kettle,48.91,67.97,EUR,2024-02-02,True
+P000018,SKU-ELE-00018,ZenByte Router,ZenByte,Electronics,Router,731.52,972.29,EUR,2024-09-10,True
+P000019,SKU-ELE-00019,ZenByte Router,ZenByte,Electronics,Router,685.92,848.59,EUR,2021-03-25,True
+P000020,SKU-APP-00020,UrbanLine Hoodie,UrbanLine,Apparel,Hoodie,62.01,111.82,EUR,2020-04-03,False
+P000021,SKU-HOM-00021,HomePro Blender,HomePro,Home,Blender,84.01,123.57,EUR,2019-11-19,True
+P000022,SKU-SPO-00022,FitCore Yoga Mat,FitCore,Sports,Yoga Mat,35.68,55.4,EUR,2025-03-01,True
+P000023,SKU-APP-00023,StreetMode Sneakers,StreetMode,Apparel,Sneakers,65.83,173.94,EUR,2021-04-03,True
+P000024,SKU-SPO-00024,RunPro Sports Bottle,RunPro,Sports,Sports Bottle,100.61,160.08,EUR,2020-05-10,True
+P000025,SKU-ELE-00025,NovaTech Keyboard,NovaTech,Electronics,Keyboard,528.49,607.89,EUR,2021-06-21,True
+P000026,SKU-ELE-00026,NovaTech Smartwatch,NovaTech,Electronics,Smartwatch,664.48,909.15,EUR,2019-10-18,True
+P000027,SKU-HOM-00027,BrightNest Kettle,BrightNest,Home,Kettle,90.85,112.12,EUR,2025-05-27,True
+P000028,SKU-ACC-00028,PocketGear USB-C Cable,PocketGear,Accessories,USB-C Cable,45.53,95.45,EUR,2021-02-18,True
+P000029,SKU-SPO-00029,PeakMotion Running Shoes,PeakMotion,Sports,Running Shoes,75.53,150.95,EUR,2019-08-10,True
+P000030,SKU-ELE-00030,ElectraOne Headphones,ElectraOne,Electronics,Headphones,551.06,740.8,EUR,2020-03-23,True
+P000031,SKU-APP-00031,StreetMode Hoodie,StreetMode,Apparel,Hoodie,22.89,33.83,EUR,2024-03-09,True
+P000032,SKU-APP-00032,StreetMode T-Shirt,StreetMode,Apparel,T-Shirt,60.07,147.36,EUR,2020-02-06,True
+P000033,SKU-ACC-00033,TrailCo Backpack,TrailCo,Accessories,Backpack,51.4,111.61,EUR,2020-11-12,True
+P000034,SKU-SPO-00034,PeakMotion Dumbbells,PeakMotion,Sports,Dumbbells,240.65,317.03,EUR,2019-01-09,False
+P000035,SKU-HOM-00035,DailyChef Vacuum,DailyChef,Home,Vacuum,113.63,201.89,EUR,2025-03-26,True
+P000036,SKU-SPO-00036,FitCore Dumbbells,FitCore,Sports,Dumbbells,51.83,112.29,EUR,2025-06-30,True
+P000037,SKU-ACC-00037,CableWorks Backpack,CableWorks,Accessories,Backpack,7.09,12.52,EUR,2024-08-21,True
+P000038,SKU-ACC-00038,TrailCo Phone Case,TrailCo,Accessories,Phone Case,88.72,115.53,EUR,2021-01-31,True
+P000039,SKU-ELE-00039,Auralux Router,Auralux,Electronics,Router,308.37,432.59,EUR,2025-05-22,True
+P000040,SKU-APP-00040,UrbanLine Hoodie,UrbanLine,Apparel,Hoodie,67.14,115.29,EUR,2025-07-18,True
+P000041,SKU-ACC-00041,CableWorks Power Bank,CableWorks,Accessories,Power Bank,80.85,112.56,EUR,2022-07-10,True
+P000042,SKU-APP-00042,StreetMode Sneakers,StreetMode,Apparel,Sneakers,15.86,32.25,EUR,2024-02-16,True
+P000043,SKU-HOM-00043,HomePro Coffee Maker,HomePro,Home,Coffee Maker,119.49,217.06,EUR,2020-02-14,True
+P000044,SKU-APP-00044,NordFit Hoodie,NordFit,Apparel,Hoodie,19.85,32.52,EUR,2019-10-09,True
+P000045,SKU-HOM-00045,CleanWave Desk Lamp,CleanWave,Home,Desk Lamp,143.19,208.42,EUR,2022-05-24,True
+P000046,SKU-ACC-00046,TrailCo Wallet,TrailCo,Accessories,Wallet,47.49,82.14,EUR,2020-02-29,False
+P000047,SKU-APP-00047,UrbanLine Sneakers,UrbanLine,Apparel,Sneakers,73.05,161.25,EUR,2020-09-28,True
+P000048,SKU-ACC-00048,CableWorks Phone Case,CableWorks,Accessories,Phone Case,15.96,29.21,EUR,2021-12-17,True
+P000049,SKU-HOM-00049,HomePro Coffee Maker,HomePro,Home,Coffee Maker,176.0,292.74,EUR,2019-06-30,True
+P000050,SKU-APP-00050,NordFit Cap,NordFit,Apparel,Cap,21.48,37.47,EUR,2023-10-18,True
+P000051,SKU-ACC-00051,TrailCo Backpack,TrailCo,Accessories,Backpack,6.51,14.58,EUR,2020-09-02,True
+P000052,SKU-HOM-00052,CleanWave Air Fryer,CleanWave,Home,Air Fryer,171.52,204.81,EUR,2023-02-02,True
+P000053,SKU-ELE-00053,Auralux Keyboard,Auralux,Electronics,Keyboard,538.94,696.96,EUR,2022-12-19,True
+P000054,SKU-ACC-00054,PocketGear USB-C Cable,PocketGear,Accessories,USB-C Cable,78.67,111.54,EUR,2020-10-27,False
+P000055,SKU-APP-00055,UrbanLine Jacket,UrbanLine,Apparel,Jacket,15.4,40.49,EUR,2023-08-14,True
+P000056,SKU-APP-00056,CasaWear Sneakers,CasaWear,Apparel,Sneakers,101.67,143.85,EUR,2019-06-08,True
+P000057,SKU-APP-00057,StreetMode Jeans,StreetMode,Apparel,Jeans,29.29,69.44,EUR,2021-07-21,True
+P000058,SKU-APP-00058,NordFit Jacket,NordFit,Apparel,Jacket,41.43,57.36,EUR,2022-02-17,True
+P000059,SKU-HOM-00059,BrightNest Kettle,BrightNest,Home,Kettle,186.35,312.19,EUR,2022-09-18,True
+P000060,SKU-ELE-00060,ZenByte Headphones,ZenByte,Electronics,Headphones,154.85,218.64,EUR,2021-12-23,True
+P000061,SKU-ACC-00061,CableWorks USB-C Cable,CableWorks,Accessories,USB-C Cable,60.07,89.05,EUR,2024-09-25,True
+P000062,SKU-ELE-00062,Auralux Monitor,Auralux,Electronics,Monitor,222.33,290.99,EUR,2019-01-07,True
+P000063,SKU-ACC-00063,PocketGear Wallet,PocketGear,Accessories,Wallet,36.69,47.52,EUR,2022-09-14,True
+P000064,SKU-ACC-00064,TrailCo Water Bottle,TrailCo,Accessories,Water Bottle,59.86,88.05,EUR,2022-06-20,True
+P000065,SKU-SPO-00065,PeakMotion Running Shoes,PeakMotion,Sports,Running Shoes,152.28,247.66,EUR,2021-02-24,True
+P000066,SKU-SPO-00066,FitCore Sports Bottle,FitCore,Sports,Sports Bottle,155.93,220.04,EUR,2025-02-22,True
+P000067,SKU-ELE-00067,ZenByte Keyboard,ZenByte,Electronics,Keyboard,185.79,248.67,EUR,2022-08-12,True
+P000068,SKU-SPO-00068,PeakMotion Bike Helmet,PeakMotion,Sports,Bike Helmet,151.64,240.36,EUR,2020-11-26,True
+P000069,SKU-HOM-00069,DailyChef Air Fryer,DailyChef,Home,Air Fryer,33.95,60.16,EUR,2021-08-20,True
+P000070,SKU-APP-00070,CasaWear Jeans,CasaWear,Apparel,Jeans,9.23,14.15,EUR,2024-04-30,True
+P000071,SKU-ACC-00071,EverydayCo Backpack,EverydayCo,Accessories,Backpack,29.18,53.25,EUR,2021-03-07,True
+P000072,SKU-SPO-00072,PeakMotion Bike Helmet,PeakMotion,Sports,Bike Helmet,54.53,94.47,EUR,2019-01-23,True
+P000073,SKU-ELE-00073,Auralux Monitor,Auralux,Electronics,Monitor,153.26,216.09,EUR,2024-10-22,True
+P000074,SKU-SPO-00074,FitCore Yoga Mat,FitCore,Sports,Yoga Mat,249.66,322.1,EUR,2020-06-30,True
+P000075,SKU-ACC-00075,CableWorks Power Bank,CableWorks,Accessories,Power Bank,50.69,114.3,EUR,2024-08-29,True
+P000076,SKU-SPO-00076,PeakMotion Resistance Bands,PeakMotion,Sports,Resistance Bands,171.77,315.26,EUR,2024-04-28,True
+P000077,SKU-SPO-00077,FitCore Running Shoes,FitCore,Sports,Running Shoes,212.26,295.87,EUR,2024-11-05,True
+P000078,SKU-SPO-00078,FitCore Sports Bottle,FitCore,Sports,Sports Bottle,82.94,104.81,EUR,2022-03-16,True
+P000079,SKU-APP-00079,NordFit Sneakers,NordFit,Apparel,Sneakers,34.36,64.35,EUR,2020-07-20,True
+P000080,SKU-SPO-00080,FitCore Sports Bottle,FitCore,Sports,Sports Bottle,199.67,250.77,EUR,2023-07-28,True
+P000081,SKU-HOM-00081,BrightNest Air Fryer,BrightNest,Home,Air Fryer,156.63,198.78,EUR,2023-09-17,True
+P000082,SKU-SPO-00082,PulseGear Resistance Bands,PulseGear,Sports,Resistance Bands,161.86,301.58,EUR,2023-04-08,True
+P000083,SKU-SPO-00083,RunPro Yoga Mat,RunPro,Sports,Yoga Mat,76.31,112.93,EUR,2023-09-13,True
+P000084,SKU-ACC-00084,PocketGear Wallet,PocketGear,Accessories,Wallet,42.6,61.66,EUR,2024-06-12,True
+P000085,SKU-ELE-00085,ZenByte Monitor,ZenByte,Electronics,Monitor,509.5,684.43,EUR,2020-11-07,True
+P000086,SKU-APP-00086,UrbanLine Hoodie,UrbanLine,Apparel,Hoodie,84.26,164.18,EUR,2019-04-22,True
+P000087,SKU-SPO-00087,PeakMotion Dumbbells,PeakMotion,Sports,Dumbbells,53.14,73.42,EUR,2022-09-02,True
+P000088,SKU-APP-00088,NordFit Jacket,NordFit,Apparel,Jacket,26.82,67.38,EUR,2022-02-13,True
+P000089,SKU-SPO-00089,PulseGear Running Shoes,PulseGear,Sports,Running Shoes,92.81,170.96,EUR,2019-08-02,False
+P000090,SKU-HOM-00090,HomePro Blender,HomePro,Home,Blender,232.95,355.93,EUR,2019-05-08,False
+P000091,SKU-APP-00091,CasaWear T-Shirt,CasaWear,Apparel,T-Shirt,28.34,50.55,EUR,2020-04-13,True
+P000092,SKU-APP-00092,NordFit Jacket,NordFit,Apparel,Jacket,95.86,140.37,EUR,2020-04-14,True
+P000093,SKU-APP-00093,UrbanLine Sneakers,UrbanLine,Apparel,Sneakers,41.01,108.38,EUR,2025-06-16,True
+P000094,SKU-SPO-00094,FitCore Bike Helmet,FitCore,Sports,Bike Helmet,21.27,37.69,EUR,2021-09-21,True
+P000095,SKU-HOM-00095,HomePro Kettle,HomePro,Home,Kettle,246.5,362.38,EUR,2019-06-18,True
+P000096,SKU-SPO-00096,RunPro Sports Bottle,RunPro,Sports,Sports Bottle,20.49,35.31,EUR,2019-02-21,True
+P000097,SKU-SPO-00097,PeakMotion Yoga Mat,PeakMotion,Sports,Yoga Mat,196.94,336.75,EUR,2024-02-27,True
+P000098,SKU-APP-00098,CasaWear Jacket,CasaWear,Apparel,Jacket,49.02,134.75,EUR,2022-01-11,True
+P000099,SKU-ACC-00099,EverydayCo Power Bank,EverydayCo,Accessories,Power Bank,27.71,59.0,EUR,2022-01-04,True
+P000100,SKU-HOM-00100,HomePro Blender,HomePro,Home,Blender,100.02,139.94,EUR,2024-03-18,True
+P000101,SKU-ACC-00101,EverydayCo Power Bank,EverydayCo,Accessories,Power Bank,26.71,44.35,EUR,2022-08-24,True
+P000102,SKU-APP-00102,CasaWear Jacket,CasaWear,Apparel,Jacket,45.47,70.32,EUR,2022-02-19,True
+P000103,SKU-ACC-00103,CableWorks Wallet,CableWorks,Accessories,Wallet,41.15,69.36,EUR,2021-02-21,True
+P000104,SKU-SPO-00104,FitCore Bike Helmet,FitCore,Sports,Bike Helmet,142.6,245.43,EUR,2024-07-03,True
+P000105,SKU-SPO-00105,PulseGear Yoga Mat,PulseGear,Sports,Yoga Mat,74.71,111.45,EUR,2021-09-23,True
+P000106,SKU-ACC-00106,EverydayCo Water Bottle,EverydayCo,Accessories,Water Bottle,45.78,69.1,EUR,2025-03-04,True
+P000107,SKU-HOM-00107,BrightNest Desk Lamp,BrightNest,Home,Desk Lamp,105.73,136.49,EUR,2020-05-09,True
+P000108,SKU-HOM-00108,CleanWave Coffee Maker,CleanWave,Home,Coffee Maker,64.33,102.36,EUR,2022-02-06,True
+P000109,SKU-ACC-00109,CableWorks Power Bank,CableWorks,Accessories,Power Bank,55.0,117.78,EUR,2022-04-28,True
+P000110,SKU-APP-00110,CasaWear Sneakers,CasaWear,Apparel,Sneakers,28.65,61.39,EUR,2020-06-02,True
+P000111,SKU-ELE-00111,ZenByte Tablet,ZenByte,Electronics,Tablet,634.85,711.55,EUR,2024-07-03,True
+P000112,SKU-ELE-00112,ZenByte Headphones,ZenByte,Electronics,Headphones,407.37,494.93,EUR,2021-01-25,False
+P000113,SKU-HOM-00113,HomePro Vacuum,HomePro,Home,Vacuum,272.58,373.51,EUR,2019-10-31,True
+P000114,SKU-ELE-00114,Auralux Smartwatch,Auralux,Electronics,Smartwatch,582.88,819.58,EUR,2019-12-15,False
+P000115,SKU-ELE-00115,ElectraOne Tablet,ElectraOne,Electronics,Tablet,466.27,625.0,EUR,2021-07-13,True
+P000116,SKU-SPO-00116,PeakMotion Bike Helmet,PeakMotion,Sports,Bike Helmet,67.76,112.51,EUR,2023-10-23,True
+P000117,SKU-HOM-00117,HomePro Air Fryer,HomePro,Home,Air Fryer,177.18,282.14,EUR,2021-05-01,True
+P000118,SKU-HOM-00118,HomePro Kettle,HomePro,Home,Kettle,69.84,87.53,EUR,2019-11-04,True
+P000119,SKU-SPO-00119,PeakMotion Bike Helmet,PeakMotion,Sports,Bike Helmet,81.11,110.45,EUR,2022-03-04,True
+P000120,SKU-SPO-00120,FitCore Yoga Mat,FitCore,Sports,Yoga Mat,171.38,324.28,EUR,2021-03-21,True
+P000121,SKU-ACC-00121,PocketGear Phone Case,PocketGear,Accessories,Phone Case,51.42,109.56,EUR,2019-10-20,True
+P000122,SKU-HOM-00122,DailyChef Air Fryer,DailyChef,Home,Air Fryer,148.15,208.84,EUR,2022-05-30,True
+P000123,SKU-SPO-00123,PeakMotion Running Shoes,PeakMotion,Sports,Running Shoes,95.77,159.96,EUR,2023-11-05,True
+P000124,SKU-HOM-00124,DailyChef Air Fryer,DailyChef,Home,Air Fryer,24.32,31.12,EUR,2025-06-14,True
+P000125,SKU-ACC-00125,CableWorks Backpack,CableWorks,Accessories,Backpack,35.47,71.69,EUR,2020-12-18,True
+P000126,SKU-SPO-00126,FitCore Running Shoes,FitCore,Sports,Running Shoes,229.87,348.97,EUR,2024-07-07,True
+P000127,SKU-ELE-00127,ZenByte Monitor,ZenByte,Electronics,Monitor,371.11,436.93,EUR,2020-03-04,True
+P000128,SKU-HOM-00128,BrightNest Vacuum,BrightNest,Home,Vacuum,81.53,143.93,EUR,2025-03-03,True
+P000129,SKU-ELE-00129,NovaTech Monitor,NovaTech,Electronics,Monitor,295.23,347.79,EUR,2023-07-14,True
+P000130,SKU-ACC-00130,EverydayCo Backpack,EverydayCo,Accessories,Backpack,38.5,53.11,EUR,2023-01-21,True
+P000131,SKU-ACC-00131,EverydayCo USB-C Cable,EverydayCo,Accessories,USB-C Cable,66.57,92.64,EUR,2025-02-27,True
+P000132,SKU-APP-00132,StreetMode Sneakers,StreetMode,Apparel,Sneakers,88.84,159.74,EUR,2019-04-29,False
+P000133,SKU-ACC-00133,PocketGear Phone Case,PocketGear,Accessories,Phone Case,32.91,41.43,EUR,2023-07-30,True
+P000134,SKU-ELE-00134,NovaTech Smartwatch,NovaTech,Electronics,Smartwatch,435.79,487.38,EUR,2020-09-22,True
+P000135,SKU-HOM-00135,DailyChef Air Fryer,DailyChef,Home,Air Fryer,140.11,198.66,EUR,2024-04-18,True
+P000136,SKU-APP-00136,CasaWear Jacket,CasaWear,Apparel,Jacket,28.67,75.21,EUR,2024-09-12,True
+P000137,SKU-APP-00137,NordFit T-Shirt,NordFit,Apparel,T-Shirt,57.71,141.35,EUR,2022-10-24,True
+P000138,SKU-ACC-00138,TrailCo Water Bottle,TrailCo,Accessories,Water Bottle,26.03,38.24,EUR,2025-07-03,True
+P000139,SKU-SPO-00139,PeakMotion Dumbbells,PeakMotion,Sports,Dumbbells,134.33,194.04,EUR,2025-03-10,True
+P000140,SKU-ACC-00140,EverydayCo USB-C Cable,EverydayCo,Accessories,USB-C Cable,50.8,112.35,EUR,2021-09-05,True
+P000141,SKU-APP-00141,UrbanLine Jacket,UrbanLine,Apparel,Jacket,35.94,64.09,EUR,2023-04-11,True
+P000142,SKU-SPO-00142,FitCore Sports Bottle,FitCore,Sports,Sports Bottle,144.67,179.42,EUR,2024-08-19,True
+P000143,SKU-ACC-00143,TrailCo Water Bottle,TrailCo,Accessories,Water Bottle,65.92,105.66,EUR,2024-11-24,True
+P000144,SKU-SPO-00144,FitCore Yoga Mat,FitCore,Sports,Yoga Mat,86.99,150.57,EUR,2020-09-24,True
+P000145,SKU-HOM-00145,BrightNest Desk Lamp,BrightNest,Home,Desk Lamp,178.0,299.43,EUR,2024-12-25,True
+P000146,SKU-SPO-00146,PeakMotion Running Shoes,PeakMotion,Sports,Running Shoes,247.55,306.87,EUR,2019-10-08,True
+P000147,SKU-HOM-00147,HomePro Blender,HomePro,Home,Blender,169.51,206.61,EUR,2020-02-16,True
+P000148,SKU-HOM-00148,HomePro Coffee Maker,HomePro,Home,Coffee Maker,132.87,159.48,EUR,2023-01-08,True
+P000149,SKU-HOM-00149,CleanWave Vacuum,CleanWave,Home,Vacuum,90.8,125.0,EUR,2021-01-07,True
+P000150,SKU-ELE-00150,ElectraOne Tablet,ElectraOne,Electronics,Tablet,552.92,637.72,EUR,2025-07-16,True
+P000151,SKU-APP-00151,StreetMode Jeans,StreetMode,Apparel,Jeans,67.06,118.44,EUR,2019-02-08,True
+P000152,SKU-SPO-00152,FitCore Running Shoes,FitCore,Sports,Running Shoes,17.38,36.97,EUR,2022-05-10,True
+P000153,SKU-SPO-00153,RunPro Sports Bottle,RunPro,Sports,Sports Bottle,117.85,166.41,EUR,2023-04-25,True
+P000154,SKU-SPO-00154,FitCore Yoga Mat,FitCore,Sports,Yoga Mat,96.83,140.9,EUR,2022-04-26,True
+P000155,SKU-HOM-00155,BrightNest Coffee Maker,BrightNest,Home,Coffee Maker,93.89,138.03,EUR,2019-07-20,False
+P000156,SKU-SPO-00156,FitCore Running Shoes,FitCore,Sports,Running Shoes,149.78,217.19,EUR,2021-02-17,True
+P000157,SKU-APP-00157,UrbanLine Cap,UrbanLine,Apparel,Cap,80.39,163.58,EUR,2022-06-19,True
+P000158,SKU-SPO-00158,RunPro Yoga Mat,RunPro,Sports,Yoga Mat,204.17,259.54,EUR,2022-04-23,True
+P000159,SKU-HOM-00159,BrightNest Kettle,BrightNest,Home,Kettle,77.41,95.53,EUR,2025-01-18,True
+P000160,SKU-HOM-00160,DailyChef Air Fryer,DailyChef,Home,Air Fryer,291.47,377.1,EUR,2024-05-27,True
+P000161,SKU-HOM-00161,DailyChef Kettle,DailyChef,Home,Kettle,259.55,365.82,EUR,2019-11-05,True
+P000162,SKU-APP-00162,StreetMode Cap,StreetMode,Apparel,Cap,74.69,174.44,EUR,2023-02-07,True
+P000163,SKU-ELE-00163,NovaTech Monitor,NovaTech,Electronics,Monitor,268.05,300.24,EUR,2023-02-18,True
+P000164,SKU-HOM-00164,BrightNest Air Fryer,BrightNest,Home,Air Fryer,212.19,373.64,EUR,2020-03-19,True
+P000165,SKU-SPO-00165,RunPro Yoga Mat,RunPro,Sports,Yoga Mat,237.19,321.36,EUR,2019-09-16,True
+P000166,SKU-SPO-00166,RunPro Sports Bottle,RunPro,Sports,Sports Bottle,179.79,231.44,EUR,2019-07-05,False
+P000167,SKU-HOM-00167,HomePro Vacuum,HomePro,Home,Vacuum,36.08,61.79,EUR,2020-07-09,True
+P000168,SKU-HOM-00168,BrightNest Kettle,BrightNest,Home,Kettle,172.26,272.56,EUR,2023-08-27,True
+P000169,SKU-ELE-00169,ElectraOne Monitor,ElectraOne,Electronics,Monitor,807.89,941.1,EUR,2023-02-26,True
+P000170,SKU-APP-00170,StreetMode Jacket,StreetMode,Apparel,Jacket,69.98,171.59,EUR,2020-02-11,False
+P000171,SKU-HOM-00171,DailyChef Air Fryer,DailyChef,Home,Air Fryer,35.32,46.04,EUR,2020-05-15,False
+P000172,SKU-SPO-00172,FitCore Yoga Mat,FitCore,Sports,Yoga Mat,137.12,228.9,EUR,2019-03-29,True
+P000173,SKU-HOM-00173,CleanWave Blender,CleanWave,Home,Blender,282.58,358.4,EUR,2025-03-20,True
+P000174,SKU-APP-00174,CasaWear Hoodie,CasaWear,Apparel,Hoodie,97.35,148.22,EUR,2020-08-27,True
+P000175,SKU-ACC-00175,CableWorks Backpack,CableWorks,Accessories,Backpack,77.08,103.86,EUR,2020-06-16,True
+P000176,SKU-APP-00176,UrbanLine T-Shirt,UrbanLine,Apparel,T-Shirt,19.66,32.41,EUR,2021-09-01,True
+P000177,SKU-ELE-00177,ZenByte Smartwatch,ZenByte,Electronics,Smartwatch,74.76,98.78,EUR,2024-11-24,True
+P000178,SKU-ELE-00178,NovaTech Router,NovaTech,Electronics,Router,375.49,501.43,EUR,2024-10-03,True
+P000179,SKU-ACC-00179,EverydayCo Backpack,EverydayCo,Accessories,Backpack,26.76,63.44,EUR,2019-06-27,True
+P000180,SKU-ACC-00180,EverydayCo Water Bottle,EverydayCo,Accessories,Water Bottle,62.48,79.34,EUR,2024-05-15,True
+P000181,SKU-SPO-00181,PulseGear Bike Helmet,PulseGear,Sports,Bike Helmet,85.91,177.71,EUR,2019-10-29,True
+P000182,SKU-HOM-00182,CleanWave Air Fryer,CleanWave,Home,Air Fryer,37.03,48.24,EUR,2025-07-25,True
+P000183,SKU-ACC-00183,CableWorks Wallet,CableWorks,Accessories,Wallet,27.73,49.42,EUR,2022-04-22,True
+P000184,SKU-SPO-00184,PeakMotion Resistance Bands,PeakMotion,Sports,Resistance Bands,25.51,45.52,EUR,2025-03-08,True
+P000185,SKU-APP-00185,StreetMode Jacket,StreetMode,Apparel,Jacket,94.09,160.98,EUR,2024-02-01,True
+P000186,SKU-SPO-00186,PulseGear Bike Helmet,PulseGear,Sports,Bike Helmet,82.86,117.64,EUR,2021-11-10,True
+P000187,SKU-APP-00187,StreetMode Cap,StreetMode,Apparel,Cap,8.94,21.41,EUR,2020-01-17,True
+P000188,SKU-HOM-00188,HomePro Blender,HomePro,Home,Blender,185.5,272.18,EUR,2022-09-12,True
+P000189,SKU-ELE-00189,ZenByte Monitor,ZenByte,Electronics,Monitor,626.63,878.93,EUR,2023-09-29,True
+P000190,SKU-ELE-00190,ZenByte Keyboard,ZenByte,Electronics,Keyboard,303.72,383.06,EUR,2021-05-21,True
+P000191,SKU-SPO-00191,PulseGear Dumbbells,PulseGear,Sports,Dumbbells,80.05,130.34,EUR,2020-04-15,True
+P000192,SKU-ACC-00192,EverydayCo Phone Case,EverydayCo,Accessories,Phone Case,41.98,102.35,EUR,2025-03-30,True
+P000193,SKU-ELE-00193,ZenByte Tablet,ZenByte,Electronics,Tablet,65.79,76.51,EUR,2022-06-19,True
+P000194,SKU-HOM-00194,HomePro Desk Lamp,HomePro,Home,Desk Lamp,79.09,98.0,EUR,2023-06-30,True
+P000195,SKU-ELE-00195,NovaTech Smartwatch,NovaTech,Electronics,Smartwatch,109.38,136.17,EUR,2023-03-21,True
+P000196,SKU-SPO-00196,RunPro Bike Helmet,RunPro,Sports,Bike Helmet,45.95,65.2,EUR,2022-08-21,True
+P000197,SKU-ACC-00197,TrailCo Power Bank,TrailCo,Accessories,Power Bank,78.72,106.7,EUR,2019-07-23,True
+P000198,SKU-HOM-00198,BrightNest Vacuum,BrightNest,Home,Vacuum,164.16,228.83,EUR,2022-01-23,True
+P000199,SKU-APP-00199,UrbanLine Hoodie,UrbanLine,Apparel,Hoodie,48.46,68.68,EUR,2024-06-16,True
+P000200,SKU-ACC-00200,CableWorks Wallet,CableWorks,Accessories,Wallet,7.17,11.18,EUR,2019-08-13,True
+P000201,SKU-HOM-00201,CleanWave Blender,CleanWave,Home,Blender,266.03,348.59,EUR,2020-05-06,True
+P000202,SKU-SPO-00202,FitCore Dumbbells,FitCore,Sports,Dumbbells,78.64,140.51,EUR,2024-08-11,True
+P000203,SKU-ACC-00203,CableWorks Wallet,CableWorks,Accessories,Wallet,6.47,14.22,EUR,2019-06-23,True
+P000204,SKU-SPO-00204,RunPro Yoga Mat,RunPro,Sports,Yoga Mat,125.58,206.61,EUR,2023-09-07,True
+P000205,SKU-HOM-00205,BrightNest Coffee Maker,BrightNest,Home,Coffee Maker,21.8,28.97,EUR,2024-02-28,True
+P000206,SKU-HOM-00206,BrightNest Coffee Maker,BrightNest,Home,Coffee Maker,297.69,383.13,EUR,2023-06-29,True
+P000207,SKU-ACC-00207,EverydayCo Backpack,EverydayCo,Accessories,Backpack,52.8,105.24,EUR,2021-06-26,True
+P000208,SKU-APP-00208,UrbanLine T-Shirt,UrbanLine,Apparel,T-Shirt,67.38,100.2,EUR,2022-12-02,True
+P000209,SKU-HOM-00209,CleanWave Kettle,CleanWave,Home,Kettle,98.01,121.6,EUR,2021-03-19,True
+P000210,SKU-APP-00210,UrbanLine Cap,UrbanLine,Apparel,Cap,17.69,40.11,EUR,2024-07-16,True
+P000211,SKU-SPO-00211,PeakMotion Resistance Bands,PeakMotion,Sports,Resistance Bands,119.57,242.22,EUR,2022-08-16,True
+P000212,SKU-HOM-00212,BrightNest Blender,BrightNest,Home,Blender,35.41,49.36,EUR,2022-05-25,True
+P000213,SKU-HOM-00213,HomePro Air Fryer,HomePro,Home,Air Fryer,141.82,171.34,EUR,2024-03-06,True
+P000214,SKU-SPO-00214,PulseGear Yoga Mat,PulseGear,Sports,Yoga Mat,97.53,136.63,EUR,2020-01-05,True
+P000215,SKU-ACC-00215,EverydayCo USB-C Cable,EverydayCo,Accessories,USB-C Cable,30.18,72.16,EUR,2019-06-18,True
+P000216,SKU-ACC-00216,PocketGear Wallet,PocketGear,Accessories,Wallet,26.01,42.65,EUR,2020-09-09,False
+P000217,SKU-SPO-00217,RunPro Yoga Mat,RunPro,Sports,Yoga Mat,271.38,344.05,EUR,2020-12-07,True
+P000218,SKU-SPO-00218,FitCore Bike Helmet,FitCore,Sports,Bike Helmet,64.85,135.0,EUR,2023-05-06,True
+P000219,SKU-SPO-00219,PulseGear Running Shoes,PulseGear,Sports,Running Shoes,161.82,278.76,EUR,2019-09-27,True
+P000220,SKU-ACC-00220,EverydayCo Wallet,EverydayCo,Accessories,Wallet,19.6,38.39,EUR,2020-09-07,True
+P000221,SKU-ACC-00221,PocketGear Wallet,PocketGear,Accessories,Wallet,74.69,110.51,EUR,2023-05-25,True
+P000222,SKU-APP-00222,UrbanLine Hoodie,UrbanLine,Apparel,Hoodie,37.54,62.63,EUR,2022-09-07,True
+P000223,SKU-APP-00223,UrbanLine Cap,UrbanLine,Apparel,Cap,69.57,119.82,EUR,2023-01-22,True
+P000224,SKU-ELE-00224,ZenByte Keyboard,ZenByte,Electronics,Keyboard,192.25,220.25,EUR,2024-06-14,True
+P000225,SKU-APP-00225,CasaWear Jeans,CasaWear,Apparel,Jeans,22.96,36.34,EUR,2020-02-19,True
+P000226,SKU-ACC-00226,TrailCo Wallet,TrailCo,Accessories,Wallet,36.61,81.46,EUR,2020-06-20,True
+P000227,SKU-APP-00227,CasaWear Jeans,CasaWear,Apparel,Jeans,66.82,151.33,EUR,2020-11-09,True
+P000228,SKU-ELE-00228,ZenByte Monitor,ZenByte,Electronics,Monitor,600.08,691.54,EUR,2023-12-25,True
+P000229,SKU-ACC-00229,EverydayCo Water Bottle,EverydayCo,Accessories,Water Bottle,23.02,32.68,EUR,2024-04-05,True
+P000230,SKU-APP-00230,StreetMode Sneakers,StreetMode,Apparel,Sneakers,56.39,88.49,EUR,2023-04-14,True
+P000231,SKU-ACC-00231,EverydayCo Power Bank,EverydayCo,Accessories,Power Bank,54.97,116.15,EUR,2020-07-20,True
+P000232,SKU-ELE-00232,ElectraOne Router,ElectraOne,Electronics,Router,701.77,879.41,EUR,2020-02-25,True
+P000233,SKU-ACC-00233,CableWorks Backpack,CableWorks,Accessories,Backpack,11.45,15.56,EUR,2024-01-15,True
+P000234,SKU-ACC-00234,EverydayCo Phone Case,EverydayCo,Accessories,Phone Case,7.17,16.46,EUR,2024-01-22,True
+P000235,SKU-HOM-00235,BrightNest Coffee Maker,BrightNest,Home,Coffee Maker,30.0,42.9,EUR,2021-08-23,True
+P000236,SKU-ELE-00236,Auralux Keyboard,Auralux,Electronics,Keyboard,54.2,75.78,EUR,2022-10-05,True
+P000237,SKU-APP-00237,UrbanLine Jeans,UrbanLine,Apparel,Jeans,24.57,58.77,EUR,2020-07-22,True
+P000238,SKU-SPO-00238,PulseGear Bike Helmet,PulseGear,Sports,Bike Helmet,258.67,318.18,EUR,2021-06-02,True
+P000239,SKU-ACC-00239,EverydayCo Wallet,EverydayCo,Accessories,Wallet,12.79,18.68,EUR,2022-05-18,True
+P000240,SKU-ELE-00240,Auralux Headphones,Auralux,Electronics,Headphones,333.79,447.83,EUR,2024-02-16,True
+P000241,SKU-ELE-00241,ElectraOne Headphones,ElectraOne,Electronics,Headphones,564.4,615.9,EUR,2024-10-11,True
+P000242,SKU-ACC-00242,PocketGear Phone Case,PocketGear,Accessories,Phone Case,31.34,39.21,EUR,2022-12-16,True
+P000243,SKU-APP-00243,StreetMode Hoodie,StreetMode,Apparel,Hoodie,20.2,41.84,EUR,2024-11-14,True
+P000244,SKU-HOM-00244,HomePro Coffee Maker,HomePro,Home,Coffee Maker,133.21,187.9,EUR,2023-05-04,True
+P000245,SKU-HOM-00245,HomePro Desk Lamp,HomePro,Home,Desk Lamp,144.0,173.55,EUR,2021-09-14,True
+P000246,SKU-ELE-00246,ZenByte Tablet,ZenByte,Electronics,Tablet,148.06,175.74,EUR,2022-10-18,True
+P000247,SKU-APP-00247,StreetMode Cap,StreetMode,Apparel,Cap,98.72,176.74,EUR,2021-01-16,True
+P000248,SKU-ELE-00248,ElectraOne Router,ElectraOne,Electronics,Router,73.67,84.13,EUR,2021-03-28,True
+P000249,SKU-HOM-00249,BrightNest Desk Lamp,BrightNest,Home,Desk Lamp,305.98,445.32,EUR,2021-11-03,True
+P000250,SKU-APP-00250,NordFit Sneakers,NordFit,Apparel,Sneakers,114.43,156.56,EUR,2022-09-21,True
