@@ -46,7 +46,7 @@ All modules below were completed in full.
 - Designed an end-to-end dashboard using SQL and AI-assisted tools
 - Used Databricks Genie to analyze and validate data with natural language
 
-See the [`/sql`](./sql) folder for the actual queries and the [`/dashboard`](./dashboard) folder for the dashboard files.
+See the [`/sql`](Queries) folder for the actual queries and the [`/dashboard`](Dashboard) folder for the dashboard files.
 
 ## 🔗 Connect
 
