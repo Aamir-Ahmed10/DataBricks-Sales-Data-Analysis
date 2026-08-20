@@ -1,4 +1,4 @@
-# Databricks for Data Analysts — Course Project
+# Databricks Sales Data Analysis — Course Project
 
 This repository documents my hands-on work from the LinkedIn Learning course [**Databricks for Data Analysts**](https://www.linkedin.com/learning/databricks-for-data-analysts), including SQL queries I wrote, a dashboard built in Databricks, and supporting screenshots from each module.
 
